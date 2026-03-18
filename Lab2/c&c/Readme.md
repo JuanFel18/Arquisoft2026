@@ -12,18 +12,18 @@ The following images show the Flow test for two request of each database.
 
 __FLOW 1__
 
-![If you can't see the image, you can find in the folder 'images' with name Flow1](/images/Flow1.jpg)
+![If you can't see the image, you can find in the folder 'images' with name Flow1](images/Flow1.jpg)
 
 __FLOW 2__
 
-![If you can't see the image, you can find in the folder 'images' with name Flow2](/images/Flow2.jpg)
+![If you can't see the image, you can find in the folder 'images' with name Flow2](images/Flow2.jpg)
 
 
 
 ## Components and connectors view
 
-![If you can't see the image, you can find in the folder 'images' with name c&c_view](/images/c&c_view.jpg)
+![If you can't see the image, you can find in the folder 'images' with name c&c_view](images/c&c_view.jpg)
 
 ## Descriptions of components and connectors
 
-![If you can't see the image, you can find in the folder 'images' with name c&c_view](/images/c&c_description.jpg)
+![If you can't see the image, you can find in the folder 'images' with name c&c_view](images/c&c_description.jpg)
