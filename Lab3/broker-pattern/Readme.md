@@ -43,4 +43,4 @@ __Database Verification__
 
 ## Description of the identified asycronous communcation
 
-![If you can't see the image, you can find in the folder 'images' with name Flow](images/Flow.jpg)
+![If you can't see the image, you can find in the folder 'images' with name Flow](images/Flow.png)
